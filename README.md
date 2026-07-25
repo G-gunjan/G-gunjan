@@ -110,16 +110,6 @@ AI & Machine Learning Student • Java Developer • DSA Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=G-gunjan&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
 ## 🌐 Coding Profiles
 
 <p align="center">
@@ -164,9 +154,3 @@ AI & Machine Learning Student • Java Developer • DSA Enthusiast
 - 🧠 Artificial Intelligence
 
 ---
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=G-gunjan&style=for-the-badge&color=blueviolet)
-
-</p>
