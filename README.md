@@ -36,7 +36,6 @@
 
 📂 Projects......... AI-Assisted Voice Interview Platform
 .................... Diabetic Retinopathy Detection
-.................... CPU Scheduling Simulator
 
 🌐 GitHub........... https://github.com/G-gunjan
 🟨 LeetCode......... https://leetcode.com/u/gunjan3218/
@@ -100,16 +99,6 @@ Keep Learning. Keep Building.
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=G-gunjan&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=G-gunjan&theme=tokyonight&margin-w=10&no-frame=true"/>
 
 </p>
 
