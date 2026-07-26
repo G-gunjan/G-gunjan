@@ -6,38 +6,33 @@
                      ╚██████╔╝╚██████╔╝██║ ╚████║ ╚█████╔╝██║  ██║██║ ╚████║
                       ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 
-                              ,     ,
-                             (\____/)
-                              (_oo_)
-                                (O)
-                              __||__    \)
-                           []/______\[] /
-                           / \______/ \/
-                          /    /__\
-                         (\   /____\
-
 ═══════════════════════════════════════════════════════════════════════════════
 
 👤 User............. Gunjan Pandya
 🎓 Role............. B.Tech CSE (Artificial Intelligence & Machine Learning)
 🏫 College.......... Shri Ramdeobaba College of Engineering & Management
-📍 Location......... Nagpur, India
+📍 Location......... Nagpur, Maharashtra, India
+
+───────────────────────────────────────────────────────────────────────────────
 
 💻 OS............... Windows 11
-🖥️ Editor........... VS Code | IntelliJ IDEA
-🔧 Version Control.. Git + GitHub
+🖥️ Shell............ Git Bash
+📝 Editor........... VS Code | IntelliJ IDEA
+🔧 Version Control.. Git | GitHub
 🗄️ Database......... MySQL
 
 🧠 Languages........ Java | Python | SQL | JavaScript
 ⚛️ Frameworks....... React | TensorFlow
-📚 Learning......... Data Structures & Algorithms
+📚 Currently........ Data Structures & Algorithms
 .................... Machine Learning
 .................... Artificial Intelligence
 
-🚀 Current Goal..... Software Engineer
+🚀 Goal............. Software Engineer
+🌱 Exploring........ Agentic AI | Generative AI | LLMs
 
 📂 Projects......... AI-Assisted Voice Interview Platform
 .................... Diabetic Retinopathy Detection
+.................... Portfolio Optimization System
 
 🌐 GitHub........... github.com/G-gunjan
 🟨 LeetCode......... leetcode.com/u/gunjan3218
@@ -46,13 +41,18 @@
 ═══════════════════════════════════════════════════════════════════════════════
 
 $ whoami
-Gunjan Pandya — AI & ML Student | Java Developer | Problem Solver
+
+Gunjan Pandya
+AI & Machine Learning Student
+Java Developer
+Problem Solver
 
 $ echo "Code. Learn. Build. Repeat."
+
 Code. Learn. Build. Repeat.
 ```
 
-<h1 align="center">👋 Hello, I'm Gunjan</h1>
+# 👋 Hello, I'm Gunjan
 
 <p align="center">
 AI & Machine Learning Student • Java Developer • DSA Enthusiast
@@ -60,27 +60,31 @@ AI & Machine Learning Student • Java Developer • DSA Enthusiast
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,react,mysql,tensorflow,git,github,vscode,idea,html,css,javascript"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=G-gunjan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-gunjan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,tensorflow,mysql,git,github,vscode,idea,html,css"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170"
+src="https://YOUR-VERCEL-NAME.vercel.app/api?username=G-gunjan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170"
+src="https://YOUR-VERCEL-NAME.vercel.app/api/top-langs/?username=G-gunjan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -90,7 +94,17 @@ AI & Machine Learning Student • Java Developer • DSA Enthusiast
 
 ---
 
-## 🏆 LeetCode Stats
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-gunjan&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 LeetCode
 
 <p align="center">
 
@@ -100,17 +114,74 @@ AI & Machine Learning Student • Java Developer • DSA Enthusiast
 
 ---
 
-## 📈 Contribution Graph
+# 💻 Development Environment
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-gunjan&theme=tokyo-night"/>
-
-</p>
+| Category | Technologies |
+|----------|--------------|
+| Languages | Java, Python, SQL, JavaScript |
+| Frameworks | React, TensorFlow |
+| Database | MySQL |
+| IDE | VS Code, IntelliJ IDEA |
+| Version Control | Git, GitHub |
+| Operating System | Windows 11 |
 
 ---
 
-## 🌐 Coding Profiles
+# 🚀 Featured Projects
+
+## 🎤 AI-Assisted Voice Interview Platform
+
+✔ AI Voice Interviewer
+
+✔ Face Detection
+
+✔ Phone Detection
+
+✔ Resume Parsing
+
+✔ Communication Analysis
+
+✔ Technical Scoring
+
+---
+
+## 👁️ Diabetic Retinopathy Detection
+
+✔ TensorFlow
+
+✔ EfficientNetB3
+
+✔ Deep Learning
+
+✔ Medical Image Classification
+
+---
+
+## 📊 Portfolio Optimization System
+
+✔ Python
+
+✔ Machine Learning
+
+✔ Monte Carlo Simulation
+
+✔ Sharpe Ratio Optimization
+
+✔ Stock Prediction
+
+---
+
+# 📚 Currently Learning
+
+- 🌳 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 🚀 Agentic AI
+- 💡 Large Language Models
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -130,27 +201,8 @@ AI & Machine Learning Student • Java Developer • DSA Enthusiast
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
 
-### 🎤 AI-Assisted Voice Interview Platform
+⭐ If you like my work, consider giving my repositories a star!
 
-- 🎙️ AI-powered voice interviewer
-- 👤 Face detection & interview monitoring
-- 📱 Phone detection
-- 📊 Technical & communication scoring
-
-### 👁️ Diabetic Retinopathy Detection
-
-- 🧠 TensorFlow + EfficientNetB3
-- 📈 Transfer Learning
-- 🏥 Medical image classification
-
----
-
-## 📚 Currently Learning
-
-- 🌳 Data Structures & Algorithms
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-
----
+</p>
